@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="230">
+<img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200" >
 
 Mi nombre es Fridel Baldiviezo,Ing.de Sistemas,MBA en Direccion de Proyectos, Desarrollador Front End JS-Movil con enfoque educativo, experiencia en ONGs,gubernamentales y privados, padre de familia de 2 niñas, apasionado por la musica.
 - 🔭 Actualmente estoy trabajando en mi portafolio Web y un Landing Page para el colegio de mis niñas en HTML-CSS y JS sin frameworks.
