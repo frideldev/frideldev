@@ -24,13 +24,13 @@ Mi nombre es Fridel Baldiviezo,Ing.de Sistemas,MBA en Direccion de Proyectos, De
   <br>
   <br>
   <a href="https://github.com/frideldev">
-    <img src="https://badges.pufler.dev/years/itielmaimon?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/frideldev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/frideldev">
-    <img src="https://badges.pufler.dev/repos/itielmaimon?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/frideldev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/frideldev">
-    <img src="https://badges.pufler.dev/visits/itielmaimon/itielmaimon?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/frideldev/frideldev?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
