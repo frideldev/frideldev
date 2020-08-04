@@ -1,4 +1,39 @@
-### Hi there 👋
+
+<h2>Hola soy<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+Mi nombre es Fridel Baldiviezo,ng.de Sistemas,MBA en Direccion de Proyectos, Desarrollador Front End JS-Movil con enfoque educativo, experiencia en ONGs,gubernamentales y privados, padre de familia de 2 niñas, apasionado por la musica.
+- 🔭 I’m currently working with Unity 3D.
+- 🌱 I’m currently deepening my knowledge in React and Node.js.
+- 🌐 Visit my [website](https://itiel.me/) for more info about me.
+
+#### 📫 Contact Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itielmaimon/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ItielMaimon)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itielmaimon/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ItielMaimon)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@itielmaimon)
+[<img src ="https://img.shields.io/badge/portfolio-web%23.svg?&style=for-the-badge&logo=globe&logoColor=white">](https://itiel.me/)
+
+---
+<h4> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> Github Stats</h4>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=itielmaimon&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itielmaimon&hide=css,html,ShaderLab&theme=tokyonight">
+  <br>
+  <br>
+  <a href="https://github.com/itielMaimon">
+    <img src="https://badges.pufler.dev/years/itielmaimon?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/itielMaimon">
+    <img src="https://badges.pufler.dev/repos/itielmaimon?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/itielMaimon">
+    <img src="https://badges.pufler.dev/visits/itielmaimon/itielmaimon?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
 <!--
 **frideldev/frideldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
