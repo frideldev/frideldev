@@ -5,6 +5,7 @@
 
 <img align='right' src="https://github.com/frideldev/frideldev/raw/master/LOGOFRIDELisitopio2.png" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frideldev" alt="frideldev" /> </p>
+
 - 🔭El trabajo que estoy realizando ahora es: [Jornada 7](http://www.jornada7.com.bo)
 
 - 👯 El trabajo que colaboro es: [Diocesis de Tarija](http://diocesis.fridel.info.bo)
