@@ -2,8 +2,9 @@
 <h1 align="center">Hola 👋, Bienvenidos me llamo Fridel Baldiviezo</h1>
 <h3 align="center">Ing.de Sistemas,MBA en Direccion de Proyectos, Desarrollador Front End JS-Movil con enfoque educativo, experiencia en ONGs,gubernamentales y privados, padre de familia de 2 niñas, apasionado por la musica.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frideldev" alt="frideldev" /> </p>
+
 <img align='right' src="https://github.com/frideldev/frideldev/raw/master/LOGOFRIDELisitopio2.png" width="230">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frideldev" alt="frideldev" /> </p>
 - 🔭 Actualmente estoy trabajando en mi portafolio Web y un Landing Page para el colegio de mis niñas en HTML-CSS y JS sin frameworks.
 - 🌱 Me estoy capacitando en Angular Avanzado y Flutter.
 - 🌐 Visita mi [website](http://fridel.info.bo/) para que conozcas mas de mi.
