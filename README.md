@@ -5,9 +5,15 @@
 
 <img align='right' src="https://github.com/frideldev/frideldev/raw/master/LOGOFRIDELisitopio2.png" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frideldev" alt="frideldev" /> </p>
-- 🔭 Actualmente estoy trabajando en mi portafolio Web y un Landing Page para el colegio de mis niñas en HTML-CSS y JS sin frameworks.
+- 🔭El trabajo que estoy realizando ahora es: [Jornada 7](http://www.jornada7.com.bo)
 
-- 🌱 Me estoy capacitando en Angular Avanzado y Flutter.
+- 👯 El trabajo que colaboro es: [Diocesis de Tarija](http://diocesis.fridel.info.bo)
+
+- 🤝 El trabajo que comparto es: [Web Dev](https://gitthub.com/frideldev/webdev.io)
+
+- 🌱 Actualmente estoy estudiando: **Angular Avanzado**
+
+- 📝 Mis articulos los puedes encontrar en: [http://medium.com/frideldev](http://medium.com/frideldev)
 
 - 🌐 Visita mi [website](http://fridel.info.bo/) para que conozcas mas de mi.
 
