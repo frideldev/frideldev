@@ -14,7 +14,7 @@
 
 - 🌱 Actualmente estoy estudiando: **Angular Avanzado**
 
-- 📝 Mis articulos los puedes encontrar en: [http://medium.com/frideldev](http://medium.com/frideldev)
+- 📝 Mis articulos los puedes encontrar en: [http://medium.com/frideldev](http://medium.com/@frideldev)
 
 - 🌐 Visita mi [website](http://fridel.info.bo/) para que conozcas mas de mi.
 
