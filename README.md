@@ -8,9 +8,9 @@
 
 - 🔭El trabajo que estoy realizando ahora es: [Jornada 7](http://www.jornada7.com.bo)
 
-- 👯 El webinar o Taller actual que realice es: [WebDev GDG Tarija](https://www.facebook.com/1673066312911302/videos/307999983774575)
+- 👯 El webinar o Taller actual que realice es: [WebDev GDG Tarija-JavaScript Vanilla](https://www.facebook.com/1673066312911302/videos/307999983774575)
 
-- 🤝 El trabajo que comparto es: [Web Dev](https://gitthub.com/frideldev/webdev.io)
+- 🤝 El trabajo que colaboro es: [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo)
 
 - 🌱 Actualmente estoy estudiando: **Angular Avanzado**
 
