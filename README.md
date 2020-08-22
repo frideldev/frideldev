@@ -7,16 +7,14 @@ Mi nombre es Fridel Baldiviezo,Ing.de Sistemas,MBA en Direccion de Proyectos, De
 - 🔭 Actualmente estoy trabajando en mi portafolio Web y un Landing Page para el colegio de mis niñas en HTML-CSS y JS sin frameworks.
 - 🌱 Me estoy capacitando en Angular Avanzado y Flutter.
 - 🌐 Visita mi [website](http://fridel.info.bo/) para que conozcas mas de mi.
+- 💬 Preguntame sobre: **HTML, CSS, JS y Angular**
+- 📫 Me puede ubicar en: **fridel@gmail.com**
+- ⚡ Me encanta: **La musica, tocar instrumentos**
 
 #### 📫 Contactame
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/frideldev/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/frideldev)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/frideldev/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/frideldev)
-[<img src ="https://img.shields.io/badge/portfolio-web%23.svg?&style=for-the-badge&logo=globe&logoColor=white">](http://fridel.info.bo/)
 
----
+
 <h4> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> Github Estadisticas</h4>
 
 <p align = "center">
@@ -36,16 +34,3 @@ Mi nombre es Fridel Baldiviezo,Ing.de Sistemas,MBA en Direccion de Proyectos, De
 </p>
 
 <!--
-**frideldev/frideldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
