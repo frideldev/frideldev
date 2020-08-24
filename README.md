@@ -6,11 +6,11 @@
 <img align='right' src="https://github.com/frideldev/frideldev/raw/master/LOGOFRIDELisitopio2.png" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frideldev" alt="frideldev" /> </p>
 
-- 🔭El trabajo que estoy realizando ahora es: [Jornada 7](http://www.jornada7.com.bo)
+- 🔭El trabajo que estoy realizando ahora es: [Jornada 7](http://www.jornada7.com.bo), [CIIALAT](http://www.ciilat-srl.com), [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo)
+- 🔭El trabajo que conclui es:
+- 🔭El trabajo que estoy realizando una nueva version es: [FDA Industrial](http://www.fda-industrial.com)
 
 - 👯 El webinar o Taller actual que realice es: [WebDev GDG Tarija-JavaScript Vanilla](https://www.facebook.com/1673066312911302/videos/307999983774575)
-
-- 🤝 El trabajo que colaboro es: [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo)
 
 - 🌱 Actualmente estoy estudiando: **Angular Avanzado**
 
