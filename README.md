@@ -12,7 +12,7 @@
 
 - 👯 El webinar o Taller actual que realice es: [WebDev GDG Tarija-JavaScript Vanilla](https://www.facebook.com/1673066312911302/videos/307999983774575)
 
-- 🌱 Actualmente estoy estudiando: **Angular Avanzado**
+- 🌱 Actualmente estoy estudiando: **JavaScript Moderno Guia Definitiva 15 Proyectos**
 
 - 📝 Mis articulos los puedes encontrar en: [Medium](http://medium.com/@frideldev)
 
