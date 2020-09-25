@@ -9,7 +9,7 @@
 - 🔭El trabajo que estoy realizando ahora es:[Consejo Municipal de Tarija-Angular](http://jullerosoft.com/consejo), [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo),[FDA TRAIDING](http://www.fdatraidingcom)
 - 🔭El trabajo que conclui es: [CIILAT](http://www.ciilat-srl.com)
 - 🔭El trabajo que estoy realizando una nueva version es: [FDA Industrial](http://www.fda-industrial.com)
-- 👯 El webinar o Taller que realizare es: [WebDev GDG Tarija-Flutter y Firebase](https://www.facebook.com/1673066312911302/videos/307999983774575)
+- 👯 El webinar o Taller que realizare o estoy realizando es: [Capacitacion a Bachilleres en Ventas y Finanzas Personales](https://www.facebook.com/1673066312911302/videos/307999983774575)
 
 - 👯 El webinar o Taller que realice es: [WebDev GDG Tarija-JavaScript Vanilla](https://www.facebook.com/1673066312911302/videos/307999983774575)
 
