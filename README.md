@@ -9,11 +9,11 @@
 - 🔭El trabajo que estoy realizando ahora es:[Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo),[FDA TRAIDING](http://www.fdatraidingcom)
 - 🔭El trabajo que conclui es: [Consejo Municipal de Tarija-Angular](http://jullerosoft.com/consejo)
 - 🔭El trabajo que estoy realizando una nueva version es: [FDA Industrial](http://www.fda-industrial.com)
-- 👯 El webinar o Taller que realizare o estoy realizando es: [Capacitacion a Bachilleres en Ventas y Finanzas Personales](https://www.facebook.com/1673066312911302/videos/307999983774575)
+- 👯 El webinar o Taller que realizare o estoy realizando es: 
 
-- 👯 El webinar o Taller que realice es: [WebDev GDG Tarija-JavaScript Vanilla](https://www.facebook.com/1673066312911302/videos/307999983774575)
+- 👯 El webinar o Taller que realice es:[Capacitacion a Bachilleres en Ventas y Finanzas Personales](https://www.facebook.com/1673066312911302/videos/307999983774575)
 
-- 🌱 Actualmente estoy estudiando: **JavaScript Moderno Guia Definitiva 15 Proyectos**
+- 🌱 Actualmente estoy estudiando: **Angular Avanzado**
 
 - 📝 Mis articulos los puedes encontrar en: [Medium](http://medium.com/@frideldev)
 
