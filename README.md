@@ -6,7 +6,7 @@
 <img align='right' src="https://github.com/frideldev/frideldev/raw/master/LOGOFRIDELisitopio2.png" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frideldev" alt="frideldev" /> </p>
 
-- 🔭El trabajo que estoy realizando ahora es:[Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo),[FDA TRAIDING](http://www.fdatraidingcom)
+- 🔭El trabajo que estoy realizando ahora es:Sistema Medico-MEAN, [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo),[FDA TRAIDING](http://www.fdatraidingcom)
 - 🔭El trabajo que conclui es: [Consejo Municipal de Tarija-Angular](http://jullerosoft.com/consejo)
 - 🔭El trabajo que estoy realizando una nueva version es: [FDA Industrial](http://www.fda-industrial.com)
 - 👯 El webinar o Taller que realizare o estoy realizando es: 
