@@ -9,13 +9,11 @@
 - 🔭El trabajo que estoy realizando ahora es:Sistema Medico-MEAN, [FDA TRAIDING](http://www.fdatraidingcom), Sistema de Control Social
 - 🔭El trabajo que conclui es: [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo)
 - 🔭El trabajo que estoy realizando una nueva version es: [FDA Industrial](http://www.fda-industrial.com)
-- 👯 El webinar o Taller que realizare o estoy realizando es: 
-
-- 👯 El webinar o Taller que realice es:[Capacitacion a Bachilleres en Ventas y Finanzas Personales](https://www.facebook.com/1673066312911302/videos/307999983774575)
+- 👯 El webinar o Taller que realice es:[Digitalizacion, una solucion al cambio climatico](https://www.facebook.com/988646834532650/videos/144100393789041)
 
 - 🌱 Actualmente estoy estudiando: **Angular Avanzado**
 
-- 📝 Mis articulos los puedes encontrar en: [Medium](http://medium.com/@frideldev)
+- 📝 El ultimo articulo en [Medium](http://medium.com/@frideldev) que escribi es: [Pasos para Configurar un Servidor Nodejs-Express y MongoDB](https://frideldev.medium.com/pasos-para-preparar-tu-back-end-en-node-express-y-mongodb-en-linux-6d5aa7c5c963) 
 
 - 🌐 Visita mi [website](http://fridel.info.bo/) para que conozcas mas de mi.
 
