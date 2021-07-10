@@ -1,17 +1,17 @@
 
 <h1 align="center">Hola 👋, Bienvenidos me llamo Fridel Baldiviezo</h1>
-<h3 align="center">Ing.de Sistemas,MBA en Direccion de Proyectos, Desarrollador Front End JS-Movil con enfoque educativo, experiencia en ONGs,gubernamentales y privados, padre de familia de 2 niñas, apasionado por la musica.</h3>
+<h3 align="center">Ing.de Sistemas,MBA en Direccion de Proyectos, Desarrollador Web con enfoque educativo, experiencia en ONGs,gubernamentales y privados, padre de familia de 2 niñas, apasionado por la musica.</h3>
 
 
 <img align='right' src="https://github.com/frideldev/frideldev/raw/master/LOGOFRIDELisitopio2.png" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frideldev" alt="frideldev" /> </p>
 
-- 🔭El trabajo que estoy realizando ahora es:Sistema Medico-MEAN, [FDA TRAIDING](http://www.fdatraidingcom), Sistema de Control Social
+- 🔭El trabajo que estoy realizando ahora es:Portafolio 2021, [Bertha Garnica](https://www.berthagarnica.com)
 - 🔭El trabajo que conclui es: [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo)
-- 🔭El trabajo que estoy realizando una nueva version es: [FDA Industrial](http://www.fda-industrial.com)
-- 👯 El webinar o Taller que realice es:[Digitalizacion, una solucion al cambio climatico](https://www.facebook.com/988646834532650/videos/144100393789041)
+- 🔭El trabajo que estoy realizando una nueva version es: [Murray Bolivia](http://www.murraybolivia.com)
+- 👯 El webinar o Taller que realice es:[Trabajo Colaborativo con SCRUM- JCI Tarixa](https://www.facebook.com/988646834532650/videos/144100393789041)
 
-- 🌱 Actualmente estoy estudiando: **Angular Avanzado**
+- 🌱 Actualmente estoy estudiando: **JavaScript Avanzado**
 
 - 📝 El ultimo articulo en [Medium](http://medium.com/@frideldev) que escribi es: [Pasos para Configurar un Servidor Nodejs-Express y MongoDB](https://frideldev.medium.com/pasos-para-preparar-tu-back-end-en-node-express-y-mongodb-en-linux-6d5aa7c5c963) 
 
