@@ -9,10 +9,7 @@
 - 🔭El trabajo que estoy realizando ahora es:Portafolio 2021, [Bertha Garnica](https://www.berthagarnica.com)
 - 🔭El trabajo que conclui es: [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo)
 - 🔭El trabajo que estoy realizando una nueva version es: [Murray Bolivia](http://www.murraybolivia.com)
-- 👯 El webinar o Taller que realice es:[Trabajo Colaborativo con SCRUM- JCI Tarixa](https://www.facebook.com/988646834532650/videos/144100393789041)
-
 - 🌱 Actualmente estoy estudiando: **JavaScript Avanzado**
-
 - 📝 El ultimo articulo en [Medium](http://medium.com/@frideldev) que escribi es: [Pasos para Configurar un Servidor Nodejs-Express y MongoDB](https://frideldev.medium.com/pasos-para-preparar-tu-back-end-en-node-express-y-mongodb-en-linux-6d5aa7c5c963) 
 
 - 🌐 Visita mi [website](http://fridel.info.bo/) para que conozcas mas de mi.
