@@ -6,8 +6,8 @@
 <img align='right' src="https://github.com/frideldev/frideldev/raw/master/LOGOFRIDELisitopio2.png" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frideldev" alt="frideldev" /> </p>
 
-- 🔭El trabajo que estoy realizando ahora es:Portafolio 2021, [Bertha Garnica](https://www.berthagarnica.com)
-- 🔭El trabajo que conclui es: [Diocesis de Tarija-WordPress](http://diocesis.fridel.info.bo)
+- 🔭El trabajo que estoy realizando ahora es:Decido Plataforma de Educacion Vocacional.
+- 🔭El trabajo que conclui es: [Bertha Garnica](http://berthagarnica.com)
 - 🔭El trabajo que estoy realizando una nueva version es: [Murray Bolivia](http://www.murraybolivia.com)
 - 🌱 Actualmente estoy estudiando: **JavaScript Avanzado**
 - 📝 El ultimo articulo en [Medium](http://medium.com/@frideldev) que escribi es: [Pasos para Configurar un Servidor Nodejs-Express y MongoDB](https://frideldev.medium.com/pasos-para-preparar-tu-back-end-en-node-express-y-mongodb-en-linux-6d5aa7c5c963) 
