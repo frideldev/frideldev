@@ -19,7 +19,7 @@
 - 📫 Me puede ubicar en: **fridel@gmail.com**
 
 - ⚡ Me encanta: **La musica, tocar instrumentos**
-
+<i class="icono-arg-abeja"></i>
 ## Charlas 🗣️💬  
 <table>
   <tr>
